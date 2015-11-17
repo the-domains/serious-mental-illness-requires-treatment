@@ -1,7 +1,7 @@
 name: Serious-mental-illness-requires-treatment
 favicon: null
 layout_spectrum: 0.74642
-typography_spectrum: 0.5815951460972428
+typography_spectrum: 0.82974
 title: "Rights for people, not diseases. Don't let psychosis make the decisions! "
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#f02e28'
     - '#646064'
     - '#ada9ad'
-  brandStrength: 0.375
+  brandStrength: 0.5625
   lightness: 0.01576943788677454
   saturation: 0.4449057341553271
   rhythmicContrast: 0.07294020312838256
