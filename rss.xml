@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Rights for people, not diseases. Don't let psychosis make the decisions! ]]></title>
         <description><![CDATA[Rights for people, not diseases. Don't let psychosis make the decisions! ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/serious-mental-illness-requires-treatment/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 28 Nov 2015 14:07:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 14:15:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/serious-mental-illness-requires-treatment/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SAMHSA receives worst government agency award]]></title>
+            <description><![CDATA[<article><h1>SAMHSA receives worst government agency award</h1><p>Dr. E. Fuller Torrey presents the "Worst Government Agency Award" to SAMHSA "for spending millions of taxpayer dollars while making problems worse instead of better". Visit SAMHSA FAST FACTS to learn more about why SAMHSA 'won' this award. http://www.treatmentadvocacycenter.org/about-us/our-blog/102-mi/1956</p><img src="https://i.ytimg.com/vi/EwXz5YbjgBA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=EwXz5YbjgBA</link>
+            <guid isPermaLink="false">c6b766d5-3ca3-432a-9f32-ea0ccf163265</guid>
+            <pubDate>Sat, 28 Nov 2015 14:14:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/serious-mental-illness-requires-treatment/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">120b2931-cc9d-4f71-86a1-6a11d37a5616</guid>
+            <pubDate>Sat, 28 Nov 2015 14:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test123</p>]]></description>
-            <link>undefined001d0e14-d871-4568-925b-9fdc25ed8829/index.html</link>
+            <link>https://thegrid.ai/serious-mental-illness-requires-treatment/001d0e14-d871-4568-925b-9fdc25ed8829/index.html</link>
             <guid isPermaLink="false">001d0e14-d871-4568-925b-9fdc25ed8829</guid>
             <pubDate>Sat, 28 Nov 2015 14:07:41 GMT</pubDate>
         </item>
